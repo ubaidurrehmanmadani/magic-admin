@@ -1,5 +1,6 @@
 @extends('layouts.master')
 
+
 @section('content')
     <div class="content-heading clearfix">
         <div class="heading-left">
